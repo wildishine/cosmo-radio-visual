@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <title>News | Cosmo Radio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+<div class="app">
+
+  <aside class="sidebar">
+    <div class="logo">COSMO</div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="live.html">Live Radio</a>
+      <a class="active" href="news.html">News</a>
+    </nav>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <h1>Latest News</h1>
+    </header>
+
+    <section class="news-list">
+      <article class="news-card">
+        <h3>Cosmo Radio Launching Visual Studio</h3>
+        <p>Cosmo menghadirkan pengalaman radio visual seperti TV.</p>
+      </article>
+
+      <article class="news-card">
+        <h3>DJ Aurora Live Session</h3>
+        <p>Live performance eksklusif minggu ini.</p>
+      </article>
+    </section>
+  </main>
+
+</div>
+
+</body>
+</html>
